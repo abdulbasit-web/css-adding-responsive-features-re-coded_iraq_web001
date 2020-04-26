@@ -13,12 +13,11 @@
 @media  (max-width: 900px) {
   body{
     font:85%;
-    color:red;
+    
   }
   
   #logo h1{
     height:35;
     width:35;
-    color:red;
   }
 }
