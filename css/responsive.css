@@ -15,5 +15,8 @@
     font:85%;
   }
   
-  
+  #logo h1{
+    height:35;
+    width:35;
+  }
 }
