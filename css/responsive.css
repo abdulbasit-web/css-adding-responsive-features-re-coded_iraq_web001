@@ -41,4 +41,10 @@
    .col-3 p {
     column-count: 1;
   }
+  
+  .col-3 , .col-2, .col-1{
+    width:100%;
+    margin-left:0;
+    float:none;
+  }
 }
